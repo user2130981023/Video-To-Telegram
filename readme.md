@@ -4,7 +4,7 @@
 
 ## Project Information
 
-**Deployed Link**: [link-here](link-here)
+**Deployed Link**: [[Video To Telegram](https://vidtotelegram.netlify.app/)]
 
 ## How to Edit This Code
 
