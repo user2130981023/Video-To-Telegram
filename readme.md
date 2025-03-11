@@ -18,9 +18,8 @@ You can edit your application in several ways. Here’s how to set it up locally
 
 1. **Clone the Repository**:
    ```sh
-   git clone <[YOUR_GIT_URL](https://github.com/user2130981023/Video-To-Telegram)>
-   ```
-
+   git clone https://github.com/user2130981023/Video-To-Telegram
+   
 2. **Navigate to the Project Directory**:
    ```sh
    cd <Video-To-Telegram>
